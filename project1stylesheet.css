@@ -1,0 +1,117 @@
+/* font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+body {
+    background-color: rgba(66, 135, 230, 0.8);
+
+
+    font-family: 'Lato', sans-serif;
+}
+
+#header {
+    text-align: center;
+
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#longlist {
+    text-transform: none;
+    margin-left: 150px;
+    list-style-type: none;
+    line-height: 200%;
+}
+
+#wikipedia {
+    font-style: italics;
+}
+
+.capital {
+     font-weight: 600;
+     font-size: 150%;
+}
+
+#grid {
+    width: 60%;
+    margin-left: 15%;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    
+    
+}
+
+#sidebar {
+    background-color: rgb(52, 216, 235);
+
+}
+
+.text-container {
+    background-color: rgb(52, 153, 235);
+}
+
+#writeup {
+    margin-left: 5%;
+}
+
+#sonnetindex {
+    padding: 5%;
+}
+
+#shortlist {
+    line-height: 150%;
+}
+
+footer {
+    text-align: center;
+    margin-top: 2%;
+}
+
+#mainheader {
+    text-align: right;
+}
+
+.firstlist {
+  list-style-type: none;
+}
+
+#nav {
+    background-color: yellowgreen;
+    border-bottom: dotted;
+    width: 60%;
+    margin-left: 15%;
+   
+   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+   
+   
+
+    
+}
+
+.nav1 {
+    
+   text-align: center;
+    margin: 10px;
+  
+    line-height: 0px;
+    width: 80%;
+    padding: 10px;
+  
+    
+}
+
+#heading {
+    background-color: yellow;
+    width: 60%;
+    margin-left: 15%;
+    justify-content: flex-end;
+    display: flex;
+    height: 100%;
+  
+}
+
